@@ -1,7 +1,4 @@
-This has solutions for following problems:
+##Tokenization Programs
 
-NLP:
-1. URL Hashtag Segmentation
-2. Paragraph to Sentence Conversion
-
-More solutions to be added soon.
+1. URL Hashtag Segmentation - URLs and Hashtags to Words
+2. Paragraph to Sentence Conversion - Paragraph to Sentence
