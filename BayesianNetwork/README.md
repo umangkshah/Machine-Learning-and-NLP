@@ -4,7 +4,7 @@ This is programming assignment 3 for the Artifical Intelligence course at UT Dal
 
 The goal of this programming assignment is to understand the relative properties of the inference algorithm. In order to do so, you are required to design the alarm Bayes net presented in the class and shown in Figure 14:2 from the Russell and Norvig book.
 
-![alt text](https://github.com/umangkshah/Machine-Learning-and-NLP/BayesianNetwork/bayes-net.png  "BayesianNetwork")
+![alt text](https://github.com/umangkshah/Machine-Learning-and-NLP/blob/master/BayesianNetwork/bayes-net.png  "BayesianNetwork")
 
 
 Use the parameters of the CPTs from the Figure. Implement exact inference by enumeration, prior sampling, rejection sampling and likelihood weighting.
